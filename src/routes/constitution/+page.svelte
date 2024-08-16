@@ -8,7 +8,7 @@
 <p>Aug 10 - Voting on Rule Changes</p>
 <p>Aug 15 - Draft Order Selection</p>
 <p>August 21 - Keeper Selection Deadline</p>
-<p>>September 4 @ 7:30 PM - Draft Date</p>
+<p>September 4 @ 7:30 PM - Draft Date</p>
 <p>Sep 5 - Week 1 begins</p>
 <p><strong>Draft Date:&nbsp;</strong>
 </p>
