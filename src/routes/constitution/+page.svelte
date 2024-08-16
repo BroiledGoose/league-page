@@ -1,3 +1,4 @@
+<center>
 <p><strong>We Be Keeping Rules</strong>
 </p>
 <p><strong>2024 Schedule</strong>
@@ -65,3 +66,4 @@
 <p><strong>Pick Trading</strong>
 </p>
 <p>Before the draft, you can trade any pick for the upcoming year that you own (cannot trade the pick that was a cost for your keeper selection).</p>
+</center>
