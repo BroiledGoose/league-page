@@ -25,74 +25,74 @@ export const managers = [
      "name": "Ryan H", 
        "location": "Austin",
        "bio": "The self-anointed GOAT commish",
-      "favoritePlayer": 4151
+      "favoritePlayer": 4151,
      },
  {
   "managerID" : "730227945196597248",
      "name": "Melissa",
        "location": "Fort Worth",
        "bio": "Addison's mom",
-      "favoritePlayer": 829
+      "favoritePlayer": 829,
      },
  {
   "managerID" : "608822674927472640",
      "name": "Ryan L",
-       "location": "Washington DC"
+       "location": "Washington DC",
      },
     {
   "managerID" : "869446059817091072",
      "name": "James",  
        "location": "Fort Worth",
-       "bio": "Top 2 best fantasy player in his family"
+       "bio": "Top 2 best fantasy player in his family",
      },
     {
   "managerID" : "914540466966728704",
      "name": "Garrett",
-       "location": "Fort Worth"
+       "location": "Fort Worth",
      },
     {
   "managerID" : "914948367292215296",
      "name": "Hunter",
        "location": "Dallas",
        "bio": "Once ran for prez",
-      "favoritePlayer": 157
+      "favoritePlayer": 157,
      },
     {
    "managerID" : "961665427589955584",
      "name": "Chuck",  
        "location": "Fort Worth, TX",
        "bio": "Likes both pencils & jolly ranchers",
-      "favoritePlayer": 1907
+      "favoritePlayer": 1907,
      },
        {
   "managerID" : "961692995647041536",
      "name": "Andrew",
        "location": "Chicago",
-      "favoritePlayer": 416
+      "favoritePlayer": 416,
      },
         {
   "managerID" : "961829695731884032",
      "name": "Jace",
        "location": "NYC",
-      "favoritePlayer": 9509
+      "favoritePlayer": 9509,
      },
      {
   "managerID" : "961832689642893312",
      "name": "William",
-       "location": "Baltimore"
+       "location": "Baltimore",
      },  
       {
   "managerID" : "966554395137691648",
      "name": "Patrick" ,
        "location": "San Francisco", 
        "bio": "Lover of the outback in Thailand and NBA memes",
-      "favoritePlayer": 516 
+      "favoritePlayer": 516,
      },  
  {
   "managerID" : "982728295743643648",
      "name": "Kevin Gorvin",
        "location": "Austin",
-       "bio": "No one knows who this mystery figure is, but he's good at fantasy football"
+       "bio": "No one knows who this mystery figure is, but he's good at fantasy football",
      }
   ]
   
