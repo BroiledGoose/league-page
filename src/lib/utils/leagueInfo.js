@@ -94,7 +94,7 @@ export const managers = [
  //       "location": "Austin",
  //       "bio": "No one knows who this mystery figure is, but he's good at fantasy football",
  //     }
- //  ]
+   ]
   
   
   /*   !!  !!  IMPORTANT  !!  !! */
