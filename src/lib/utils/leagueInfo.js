@@ -21,145 +21,79 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
      {
-  "managerID" : "469251546543026176"
-     "name": "Ryan H"  
-       "location": "Austin", // (optional)
+  "managerID" : "469251546543026176",
+     "name": "Ryan H", 
+       "location": "Austin",
        "bio": "The self-anointed GOAT commish",
-      "favoritePlayer": 9509 // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-
+      "favoritePlayer": 4151
      },
  {
-  "managerID" : "730227945196597248"
-     "name": "Melissa"  
-       "location": "Fort Worth", // (optional)
+  "managerID" : "730227945196597248",
+     "name": "Melissa",
+       "location": "Fort Worth",
        "bio": "Addison's mom",
-      "favoritePlayer": 829 // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-
+      "favoritePlayer": 829
      },
  {
-  "managerID" : "608822674927472640"
-     "name": "Ryan L"  
-       "location": "Washington DC", // (optional)
-       //"bio": "#1 Tim Hardaway Jr hater",
-      //"favoritePlayer": 829 // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-
+  "managerID" : "608822674927472640",
+     "name": "Ryan L",
+       "location": "Washington DC"
      },
     {
-  "managerID" : "869446059817091072"
-     "name": "James"  
-       "location": "Fort Worth", // (optional)
-       "bio": "Top 2 best fantasy player in his family",
-      //"favoritePlayer": 829 // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-
+  "managerID" : "869446059817091072",
+     "name": "James",  
+       "location": "Fort Worth",
+       "bio": "Top 2 best fantasy player in his family"
      },
     {
-  "managerID" : "914540466966728704"
-     "name": "Garrett"  
-       "location": "Fort Worth", // (optional)
-      // "bio": "Top 2 best fantasy player in his family",
-      //"favoritePlayer": 829 // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-
+  "managerID" : "914540466966728704",
+     "name": "Garrett",
+       "location": "Fort Worth"
      },
     {
-  "managerID" : "914948367292215296"
-     "name": "Hunter"  
-       "location": "Dallas", // (optional)
+  "managerID" : "914948367292215296",
+     "name": "Hunter",
+       "location": "Dallas",
        "bio": "Once ran for prez",
-      "favoritePlayer": 157 // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-
+      "favoritePlayer": 157
      },
     {
-   "managerID" : "961665427589955584"
-     "name": "Chuck"  
-       "location": "Fort Worth, TX", // (optional)
+   "managerID" : "961665427589955584",
+     "name": "Chuck",  
+       "location": "Fort Worth, TX",
        "bio": "Likes both pencils & jolly ranchers",
-      "favoritePlayer": 1907 // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-
+      "favoritePlayer": 1907
      },
        {
-  "managerID" : "961692995647041536"
-     "name": "Andrew"  
-       "location": "Chicago", // (optional)
-       //"bio": "Once ran for prez",
-      "favoritePlayer": 416 // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-
+  "managerID" : "961692995647041536",
+     "name": "Andrew",
+       "location": "Chicago",
+      "favoritePlayer": 416
      },
         {
-  "managerID" : "961829695731884032"
-     "name": "Jace"  
-       "location": "NYC", // (optional)
-       //"bio": "Once ran for prez",
-      "favoritePlayer": 416 // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-
+  "managerID" : "961829695731884032",
+     "name": "Jace",
+       "location": "NYC",
+      "favoritePlayer": 9509
      },
      {
-  "managerID" : "961832689642893312"
-     "name": "William"  
-       "location": "Baltimore", // (optional)
-       //"bio": "Once ran for prez",
-      //"favoritePlayer": 416 // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-
+  "managerID" : "961832689642893312",
+     "name": "William",
+       "location": "Baltimore"
      },  
       {
-  "managerID" : "966554395137691648"
-     "name": "Patrick"  
-       "location": "San Francisco", // (optional)
+  "managerID" : "966554395137691648",
+     "name": "Patrick" ,
+       "location": "San Francisco", 
        "bio": "Lover of the outback in Thailand and NBA memes",
-      "favoritePlayer": 516 // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-
+      "favoritePlayer": 516 
      },  
  {
-  "managerID" : "982728295743643648"
-     "name": "Kevin Gorvin"  
-       "location": "Austin", // (optional)
-       "bio": "No one knows who this mystery figure is, but he's good at fantasy football",
-     // "favoritePlayer": 516 // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-
+  "managerID" : "982728295743643648",
+     "name": "Kevin Gorvin",
+       "location": "Austin",
+       "bio": "No one knows who this mystery figure is, but he's good at fantasy football"
      }
-    // {
-    //   "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    //   "name": "Your Name",
-    //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    //   "location": "Brooklyn", // (optional)
-    //   "bio": "Lorem ipsum...",
-    //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-    //   "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
-    //   "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
-    //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-    //   "rival": {
-    //     name: "Rival", // Can be anything (usually your rival's name)
-    //     link: 6, // manager array number within this array, or null to link back to all managers page
-    //     image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
-    //   },
-    //   "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-    //   "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-    //   "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-    //   "philosophy": "Your fantasy team's philosophy",
-    //   "tradingScale": 10, // 1 - 10
-    //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    // },
-    // {
-    //   "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    //   "name": "Your Name",
-    //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    //   "location": "Brooklyn", // (optional)
-    //   "bio": "Lorem ipsum...",
-    //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-    //   "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
-    //   "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
-    //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-    //   "rival": {
-    //     name: "Rival", // Can be anything (usually your rival's name)
-    //     link: 6, // manager array number within this array, or null to link back to all managers page
-    //     image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
-    //   },
-    //   "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-    //   "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
-    //   "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-    //   "philosophy": "Your fantasy team's philosophy",
-    //   "tradingScale": 10, // 1 - 10
-    //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    // },
   ]
   
   
